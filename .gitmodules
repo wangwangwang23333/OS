@@ -1,0 +1,9 @@
+[submodule "1-ElevatorManagement"]
+	path = 1-ElevatorManagement
+	url = https://github.com/wangwangwang23333/OS_Elevator
+[submodule "2-PageSwapManagement"]
+	path = 2-PageSwapManagement
+	url = https://github.com/wangwangwang23333/OS_PageSwapManagement
+[submodule "3-FileManagement"]
+	path = 3-FileManagement
+	url = https://github.com/wangwangwang23333/OS_FileManagement
